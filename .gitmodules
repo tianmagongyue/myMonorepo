@@ -1,0 +1,3 @@
+[submodule "packages/simple-react-app/src/mini_project_yangshi"]
+	path = packages/simple-react-app/src/mini_project_yangshi
+	url = git@code.byted.org:yangshi.cy/mini_project_yangshi.git
