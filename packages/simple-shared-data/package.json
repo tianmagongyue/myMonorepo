@@ -22,5 +22,6 @@
   "devDependencies": {
     "nx": "^14.7.3",
     "typescript": "^4.8.3"
-  }
+  },
+  "gitHead": "0fb320b32e68b78baaf29fb631e03a774e148fd9"
 }
